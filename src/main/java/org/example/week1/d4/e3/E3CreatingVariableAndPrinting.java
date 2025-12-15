@@ -8,12 +8,6 @@ public class E3CreatingVariableAndPrinting {
 
         // Note: Use System.out.print, not println, to keep output on one line
 
-        boolean myboolean = false;
-        double money = 9999.99;
-
-        System.out.print(myboolean);
-        System.out.print(money);
-
 
     }
 }

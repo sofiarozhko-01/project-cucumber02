@@ -3,14 +3,6 @@ package org.example.week2.d3.e5;
 public class E5SingleDoubleEqual {
     public static void main(String[] args) {
 
-        int num1=10;
-        int num2=10;
-
-        System.out.println(num1==num2);
-
-        num1=20;
-        System.out.println(num1==num2);
-
 // Step 1: Declare Variables with Specific Values
 //   - Declare an integer variable named 'num1' and assign it the value 10.
 //   - Declare an integer variable named 'num2' and assign it the value 10.

@@ -10,8 +10,5 @@ public class E2ArithmeticOperations {
 
         // Step 3: Print the result
 
-        float num=8.2f;
-        float results=num*num;
-        System.out.println("multiple num by num equals "+num*num);
     }
 }

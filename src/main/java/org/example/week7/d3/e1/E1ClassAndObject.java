@@ -2,15 +2,17 @@ package org.example.week7.d3.e1;
 
 public class E1ClassAndObject {
     public static void main(String[] args) {
-        Student obj = new Student();
+        // Create a class in the same package named 'Student'
 
+        // Declare a String variable named 'name' and an integer variable named 'roll_no'
 
-        obj.name = "John";
-        obj.roll_no = 2;
+        // Create an object of the class 'Student'
 
+        // Assign the value "John" to the 'name' variable
 
-        System.out.println("Name: " + obj.name);
-        System.out.println("Roll Number: " + obj.roll_no);
+        // Assign the value 2 to the 'roll_no' variable
+
+        // Print the values of 'name' and 'roll_no' in the specified format
 
     }
 }

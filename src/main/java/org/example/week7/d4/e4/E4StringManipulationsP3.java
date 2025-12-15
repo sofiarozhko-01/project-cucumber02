@@ -2,19 +2,16 @@ package org.example.week7.d4.e4;
 
 public class E4StringManipulationsP3 {
     public static void main(String[] args) {
-        String word = "hello";
+        // Heads up! This is a tricky one.
+// Hint 1: Think about a string containing all these words - what's a famous sentence with 'fox' and 'dog'?
 
+// Hint 2: Remember indexOf() finds single characters using '' quotes, not ""
 
-        int indexO = word.indexOf('o');
+// Hint 3: For finding words like "jumps", use "" quotes with indexOf()
 
+// Hint 4: To start searching from a specific position, indexOf() can take two arguments
 
-        int indexJ = word.indexOf('j');
-
-
-        System.out.println("Position of first 'o': " + indexO);
-        System.out.println("Position of 'j': " + indexJ);
-
-
+// Hint 5: When searching for something that doesn't exist, what special value should you expect?
 
 
     }

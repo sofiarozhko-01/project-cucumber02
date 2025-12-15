@@ -12,11 +12,5 @@ public class E4CreatingVariablesAndPrinting {
 
         // Note: Each System.out.println statement will create a new line
 
-        System.out.println("*");
-        System.out.println("**");
-        System.out.println("***");
-        System.out.println("##");
-        System.out.println("#");
-
     }
 }

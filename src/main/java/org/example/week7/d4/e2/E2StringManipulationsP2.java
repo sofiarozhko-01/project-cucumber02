@@ -2,18 +2,23 @@ package org.example.week7.d4.e2;
 
 public class E2StringManipulationsP2 {
     public static void main(String[] args) {
-        String email = "john.doe@example.com";
-
-
-        boolean containsAt = email.contains("@");
-        boolean startsWithInfo = email.startsWith("info");
-        boolean endsWithCom = email.endsWith(".com");
-
-
-        System.out.println(containsAt);
-        System.out.println(startsWithInfo);
-        System.out.println(endsWithCom);
-
+        /*
+         *
+         * 1. Declare a String variable called 'email' and assign it "john.doe@example.com".
+         *
+         * 2. Check if the email contains the "@" symbol:
+         *
+         * 3. To check if the email starts with "info":
+         *
+         * 4. To check if the email ends with ".com":
+         *
+         * 5. Use System.out.println to print each boolean result on a new line.
+         *
+         * Expected Output:
+         * true
+         * false
+         * true
+         */
 
 
     }

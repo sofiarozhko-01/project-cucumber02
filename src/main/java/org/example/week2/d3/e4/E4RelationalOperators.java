@@ -3,21 +3,6 @@ package org.example.week2.d3.e4;
 public class E4RelationalOperators {
     public static void main(String[] args) {
 
-        int age = 18;
-        int temperature = 30;
-        int score = 75;
-
-        System.out.println(age >= 18);
-        System.out.println(temperature < 35);
-        System.out.println(score == 75);
-        System.out.println(score != 100);
-        System.out.println(age < 20);
-
-
-
-
-
-
 // Step 2: Write Relational Comparisons (Ensure the test cases pass)
 //   - Compare 'age' with 18 using the greater than or equal operator (>=):
 //       Expected: (age >= 18) should output true.
