@@ -1,0 +1,13 @@
+Feature: Add Employee
+
+  Scenario: Add employee without employee ID
+    Given admin user is logged in
+    When admin adds employee with first name "John" and last name "Smith"
+    Then employee should be added successfully
+    And verify employee in database
+
+  Scenario: Add employee with employee ID
+    Given admin user is logged in
+    When admin adds employee with first name "Mike" last name "Brown" and employee id "12345"
+    Then employee should be added successfully
+    And verify employee in database

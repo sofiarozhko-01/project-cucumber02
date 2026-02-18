@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="10547699-2d18-48d1-9cbc-cd7397abf673" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week1/d3/N1ManinMethod.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week1/d3/e1/E1HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week1/d3/e1/Instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week1/d3/e2/E2HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week1/d3/e2/Instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week1/d4/e1/E1BooleanPrinter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week1/d4/e1/Instrcutions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week1/d4/e2/E2AgePrinter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week1/d4/e2/Instrcutions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week1/d4/e3/E3CreatingVariableAndPrinting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week1/d4/e3/Instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week1/d4/e4/E4CreatingVariablesAndPrinting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week1/d4/e4/Instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week1/d4/notes/N0WhyAreWeHere.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week1/d4/notes/N1Variables.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week1/d4/notes/N2DataTypes.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week1/d4/notes/N3NamingConventions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week1/d5/e1/E1AssignmentOperator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week1/d5/e1/Instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week1/d5/e2/E2ArithmeticOperations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week1/d5/e2/Instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week1/d5/e3/E3ArithmeticOperations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week1/d5/e3/Instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week1/d5/e4/E4ArithmeticOperations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week1/d5/e4/Instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week1/d5/notes/N1ArithmeticOperators.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week2/d3/e1/E1StringConcatenation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week2/d3/e1/Instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week2/d3/e2/E2StringConcatenation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week2/d3/e2/Instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week2/d3/e3/E3CompoundOperators.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week2/d3/e3/Instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week2/d3/e4/E4RelationalOperators.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week2/d3/e4/Instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week2/d3/e5/E5SingleDoubleEqual.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week2/d3/e5/Instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week2/d3/notes/N1StringConCat.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week2/d3/notes/N2CompoundOperators.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week2/d3/notes/N3RelationalOperators.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week2/d3/notes/N4SingleVsDoubleEqual.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week2/d4/e1/E1IfElseStatements.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week2/d4/e1/Instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week2/d4/e2/E2IfElseStatements.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week2/d4/e2/Instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week2/d4/e3/E3IfElseStatements.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week2/d4/e3/Instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week2/d4/e4/E4IfElseStatements.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week2/d4/e4/Instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week2/d4/e5/E5IfElseStatements.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week2/d4/e5/Instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week2/d4/notes/N1IfStatements.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week2/d4/notes/N1TypeCasting.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week2/d5/e1/E1ElseIf.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week2/d5/e1/Instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week2/d5/e2/E2ElseIf.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week2/d5/e2/Instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week2/d5/e3/E3ElseIf.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week2/d5/e3/Instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week2/d5/e4/E4ElseIf.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week2/d5/e4/Instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week2/d5/notes/N1ElseIfStatements.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week3/d3/e1/E1NestedIfElse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week3/d3/e1/Instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week3/d3/e2/E2NestedIfElse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week3/d3/e2/Instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week3/d3/e3/E3NestedIfAndScanner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week3/d3/e3/Instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week3/d3/e4/E4NestedIfAndScanner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week3/d3/e4/Instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week3/d3/e5/E5NestedIfAndScanner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week3/d3/e5/Instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week3/d3/notes/N1NestedIfElse.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week3/d3/notes/N2ScannerClass.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week3/d4/e1/E1LogicalOperators.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week3/d4/e1/Instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week3/d4/e2/E2LogicalOperators.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week3/d4/e2/Instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week3/d4/e3/E3LogicalOperators.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week3/d4/e3/Instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week3/d4/e4/E4LogicalOperators.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week3/d4/e4/Instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week3/d4/e5/E5LogicalOperators.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week3/d4/e5/Instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week3/d4/notes/N1LogicalOperators.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week3/d5/e1/E1SwitchClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week3/d5/e1/Instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week3/d5/e2/E2SwitchClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week3/d5/e2/Instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week3/d5/notes/N1SwitchStatements.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week4/d3/e1/E1WhileLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week4/d3/e1/Instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week4/d3/e2/E2WhileLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week4/d3/e2/Instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week4/d3/e3/E3WhileLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week4/d3/e3/Instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week4/d3/e4/E4WhileLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week4/d3/e4/Instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week4/d3/e5/E5DoWhileLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week4/d3/e5/Instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week4/d3/e6/E6DoWhileLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week4/d3/e6/Instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week4/d3/notes/N1WhileLoops.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week4/d3/notes/N2DoWhileLoops.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week4/d3/notes/While.HTML" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week4/d4/e1/E1ForLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week4/d4/e1/Instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week4/d4/e2/E2ForLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week4/d4/e2/Instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week4/d4/e3/E3ForLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week4/d4/e3/Instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week4/d4/e4/E4ForLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week4/d4/e4/Instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week4/d4/e5/E5ForLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week4/d4/e5/Instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week4/d4/e7/E7ForLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week4/d4/e7/Instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week4/d4/e8/E8ForLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week4/d4/e8/Instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week4/d4/notes/N1ForLoops.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week4/d5/e1/E1Array.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week4/d5/e1/Instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week4/d5/e2/E2Arrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week4/d5/e2/instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week4/d5/e3/E3Arrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week4/d5/e3/instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week4/d5/e4/E4Arrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week4/d5/e4/instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week4/d5/notes/N1Arrays.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week5/d3/e1/E1EnhancedForLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week5/d3/e1/instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week5/d3/e2/E2EnhancedForLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week5/d3/e2/instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week5/d3/e3/E3Break.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week5/d3/e3/instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week5/d3/e4/E4Break.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week5/d3/e4/instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week5/d3/e5/E5Continue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week5/d3/e5/instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week5/d3/e6/E6Continue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week5/d3/e6/instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week5/d3/notes/N1EnhancedForLoop.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week5/d3/notes/N2BreakAndContinue.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week5/d4/e1/E1TwoDArrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week5/d4/e1/instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week5/d4/e2/E2NestedForLoops.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week5/d4/e2/Instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week5/d4/notes/N1-2DArrays.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week5/d4/notes/N2NestedLoops.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week5/d5/e1/E1NestedForLoops.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week5/d5/e1/Instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week5/d5/notes/N2InterviewQuestions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week7/d3/e1/E1ClassAndObject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week7/d3/e1/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week7/d3/e1/instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week7/d3/e2/E2StringManipulationsP1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week7/d3/e2/instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week7/d3/notes/N1ClassesAndObjects.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week7/d3/notes/N2StringClass.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week7/d4/e1/E1StringManipulationsP2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week7/d4/e1/Instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week7/d4/e2/E2StringManipulationsP2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week7/d4/e2/instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week7/d4/e3/E3StringManipulationsP3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week7/d4/e3/instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week7/d4/e4/E4StringManipulationsP3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week7/d4/e4/Instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week7/d4/notes/N1StringMethods.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week7/d4/notes/N2StringMethods.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week7/d5/e1/E1StringManipulationsP4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week7/d5/e1/Instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week7/d5/e2/E2StringManipulationsP4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week7/d5/e2/instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week7/d5/e3/E3StringManipulationsP5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week7/d5/e3/instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week7/d5/e4/E4StringManipulationsP5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week7/d5/e4/instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week7/d5/notes/N1StringMethods.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week7/d5/notes/N2RegularExpressions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week7/d7/e1/E1StringBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week7/d7/e1/instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week7/d7/e2/E2StringBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week7/d7/e2/instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week7/d7/notes/N1StringBuilder.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week8/d1/e1/E1JavaMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week8/d1/e1/MethodLibrary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week8/d1/e1/instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week8/d1/e2/E2JavaMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week8/d1/e2/Printer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week8/d1/e2/instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week8/d1/e3/E3JavaMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week8/d1/e3/TimePrinter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week8/d1/e3/instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week8/d1/e4/E4JavaMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week8/d1/e4/NumberChecker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week8/d1/e4/instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week8/d1/notes/N1Methods.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week8/d2/e1/E1Variables.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week8/d2/e1/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week8/d2/e1/instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week8/d2/e2/E2Variables.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week8/d2/e2/instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week8/d2/e3/E3StaticKeyword.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week8/d2/e3/MessagePrinter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week8/d2/e3/instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week8/d2/notes/N1Variables.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week8/d4/e1/E1AccessModifiers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week8/d4/e1/instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week8/d4/e2/AccessTester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week8/d4/e2/E2AccessModifiers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week8/d4/e2/instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week8/d4/notes/N1AccessModifiers.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week8/d5/e1/E1Constructor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week8/d5/e1/SyntaxTechnologies.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week8/d5/e1/instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week8/d5/e2/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week8/d5/e2/E2Constructor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week8/d5/e2/instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week8/d5/notes/N1Constructors.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week8/d5/notes/N2ThisKeyword.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week8/d6/e1/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week8/d6/e1/E1Inheritance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week8/d6/e1/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week8/d6/e1/instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week8/d6/e2/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week8/d6/e2/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week8/d6/e2/E2Inheritance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week8/d6/e2/Mammal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week8/d6/e2/instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week8/d6/notes/N5Inheritance.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week9/d1/e1/Building.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week9/d1/e1/E1SuperKeyword.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week9/d1/e1/House.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week9/d1/e1/instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week9/d1/e2/E2SuperKeyword.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week9/d1/e2/instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week9/d1/notes/N1SuperKeyword.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week9/d2/e1/E1MethodOverloading.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week9/d2/e1/LoanPaymentCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week9/d2/e1/instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week9/d2/e2/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week9/d2/e2/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week9/d2/e2/E2MethodOverriding.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week9/d2/e2/instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week9/d2/notes/N2MethodOverloading.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week9/d2/notes/N3MethodOverriding.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week9/d4/e1/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week9/d4/e1/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week9/d4/e1/E1ObjectTypeCasting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week9/d4/e1/instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week9/d4/e2/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week9/d4/e2/E2PolyMorphism.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week9/d4/e2/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week9/d4/e2/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week9/d4/e2/instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week9/d4/notes/N4Polymorphism.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week9/d5/e1/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week9/d5/e1/E1AbstractClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week9/d5/e1/Instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week9/d5/e1/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week9/d5/e2/E2AbstractClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week9/d5/e2/Instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/week9/d5/notes/N5Abstraction.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week1/d3/e1test/E1HelloWorldTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week1/d3/e2test/E2HelloWorldTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week1/d4/e1test/E1BooleanPrinterTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week1/d4/e2test/E2AgePrinterTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week1/d4/e3test/E3CreatingVariableAndPrintingTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week1/d4/e4test/E4CreatingVariablesAndPrintingTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week1/d5/e1test/E1AssignmentOperatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week1/d5/e2test/E2ArithmeticOperationsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week1/d5/e3test/E3ArithmeticOperationsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week1/d5/e4test/E4ArithmeticOperationsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week2/d3/e1test/E1StringConcatenationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week2/d3/e2test/E2StringConcatenationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week2/d3/e3test/E3CompoundOperatorsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week2/d3/e4test/E4RelationalOperatorsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week2/d3/e5test/E5SingleDoubleEqualTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week2/d4/e1test/E1IfElseStatementsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week2/d4/e2test/E2IfElseStatementsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week2/d4/e3test/E3IfElseStatementsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week2/d4/e4test/E4IfElseStatementsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week2/d4/e5Test/E5IfElseStatementsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week2/d5/e1Test/E1ElseIfTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week2/d5/e2test/E2ElseIfTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week2/d5/e3test/E3ElseIfTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week2/d5/e4test/E4ElseIfTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week3/d3/e1test/E1NestedIfElseTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week3/d3/e2test/E2NestedIfElseTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week3/d3/e3test/E3NestedIfAndScannerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week3/d3/e4test/E4NestedIfAndScannerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week3/d3/e5test/E5NestedIfAndScannerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week3/d4/e1test/E1LogicalOperatorsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week3/d4/e2test/E2LogicalOperatorsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week3/d4/e3test/E3LogicalOperatorsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week3/d4/e4test/E4LogicalOperatorsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week3/d4/e5test/E5LogicalOperatorsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week3/d5/e1test/E1SwitchClassTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week3/d5/e2test/E2SwitchClassTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week4/d3/e1test/E1WhileLoopTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week4/d3/e2test/E2WhileLoopTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week4/d3/e3test/E3WhileLoopTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week4/d3/e4test/E4WhileLoopTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week4/d3/e5test/E5DoWhileLoopTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week4/d3/e6test/E6DoWhileLoopTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week4/d4/e1test/E1ForLoopTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week4/d4/e2test/E2ForLoopTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week4/d4/e3test/E3ForLoopTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week4/d4/e4test/E4ForLoopTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week4/d4/e5test/E5ForLoopTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week4/d4/e7test/E7ForLoopTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week4/d4/e8test/E8ForLoopTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week4/d5/e1test/E1ArrayTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week4/d5/e2test/E2ArraysTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week4/d5/e3test/E3ArraysTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week4/d5/e4test/E4ArraysTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week5/d3/e1test/E1EnhancedForLoopTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week5/d3/e2test/E2EnhancedForLoopTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week5/d3/e3test/E3BreakTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week5/d3/e4test/E4ArrayTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week5/d3/e5test/E5ContinueTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week5/d3/e6test/E6ContinueTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week5/d4/e1test/E1TwoDArraysTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week5/d4/e2test/E1NestedForLoopsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week5/d5/e1test/E1NestedForLoopsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week7/d3/e1test/E1ClassAndObjectTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week7/d3/e2test/E2StringManipulationsP1Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week7/d4/e1test/E1StringManipulationsP2Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week7/d4/e2test/E2StringManipulationsP2Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week7/d4/e3test/E3StringManipulationsP3Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week7/d4/e4test/E4StringManipulationsP3Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week7/d5/e1test/E1StringManipulationsP4Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week7/d5/e2test/E2StringManipulationsP4Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week7/d5/e3test/E3StringManipulationsP5Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week7/d5/e4test/E4StringManipulationsP5Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week7/d7/e1test/E1StringBuilderTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week7/d7/e2test/E2StringBuilderTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week8/d1/e1test/E1JavaMethodsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week8/d1/e2test/E2JavaMethodsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week8/d1/e3test/E3JavaMethodsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week8/d1/e4test/E4JavaMethodsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week8/d2/e1test/E1VariablesTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week8/d2/e2test/E2VariablesTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week8/d2/e3test/E3StaticKeywordTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week8/d4/e1test/E1AccessModifiersTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week8/d4/e2test/E2AccessModifiersTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week8/d5/e1test/E1ConstructorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week8/d5/e2test/E2ConstructorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week8/d6/e1test/E1InheritanceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week8/d6/e2test/E2InheritanceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week9/d1/e1test/E1SuperKeywordTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week9/d1/e2test/E2SuperKeywordTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week9/d2/e1test/E1MethodOverloadingTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week9/d2/e2test/E2MethodOverridingTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week9/d4/e1test/E1ObjectTypeCastingTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week9/d4/e2test/E2PolyMorphismTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week9/d5/e1test/E1AbstractClassTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/week9/d5/e2test/E2AbstractClassTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;sofiarozhko-01&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/SyntaxTechnologies/SDETB25JavaHWsNew.git&quot;,
+    &quot;accountId&quot;: &quot;3e17398a-226a-4b62-8c82-79e30e030c31&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="39rANingKFi6oiPdsE6ekkC8nnZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Home Work QA/project-cucumber/src/main/java/org/syntax/Main.java&quot;
+  }
+}</component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="10547699-2d18-48d1-9cbc-cd7397abf673" name="Changes" comment="" />
+      <created>1771443781751</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1771443781751</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/syntax/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

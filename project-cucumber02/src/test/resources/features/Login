@@ -1,0 +1,20 @@
+Feature: Login Validation
+
+  Scenario: Empty Username
+    Given user is on login page
+    When user enters password "admin123"
+    And user clicks login
+    Then error message "Required" should be displayed
+
+  Scenario: Empty Password
+    Given user is on login page
+    When user enters username "Admin"
+    And user clicks login
+    Then error message "Required" should be displayed
+
+  Scenario: Invalid Credentials
+    Given user is on login page
+    When user enters username "wrong"
+    And user enters password "wrong"
+    And user clicks login
+    Then error message "Invalid credentials" should be displayed

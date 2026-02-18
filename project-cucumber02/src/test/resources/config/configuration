@@ -1,0 +1,8 @@
+browser=chrome
+url=http://54.198.61.50/web/index.php/auth/login
+username=Admin
+password=admin123
+
+dbUrl=jdbc:mysql://54.198.61.50:3306/syntaxhrm_mysql
+dbUsername=syntax_hrm
+dbPassword=syntaxhrm123
